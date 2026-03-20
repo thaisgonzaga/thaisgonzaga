@@ -8,7 +8,7 @@ Tenho experiência com:
 - **HTML, CSS e JavaScript**
 - **Vue.js** (componentização, reatividade, diretivas, Vue Router e organização de estado)
 - **Node.js** (criação de APIs REST e estrutura em camadas)
-- - **Git e GitHub** (versionamento de código, commits, branches e controle de versões)
+- **Git e GitHub** (versionamento de código, commits, branches e controle de versões)
 - Integração entre **frontend e backend**
 - Boas práticas de organização de código
 
